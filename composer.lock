@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "6558f74828bca9ebecac73d90cea4b1a",
+    "content-hash": "37ae3b6700fa86018c90ffe12a59ec28",
     "packages": [
         {
             "name": "asm89/stack-cors",
@@ -117,6 +117,57 @@
                 }
             ],
             "time": "2021-01-20T22:51:39+00:00"
+        },
+        {
+            "name": "dinushchathurya/srilankan-local-authorities",
+            "version": "1.0.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/dinushchathurya/srilankan-local-authorities.git",
+                "reference": "bbf43555212d78faee6c742099363e7c713ff8f1"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/dinushchathurya/srilankan-local-authorities/zipball/bbf43555212d78faee6c742099363e7c713ff8f1",
+                "reference": "bbf43555212d78faee6c742099363e7c713ff8f1",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=5.3.0"
+            },
+            "type": "package",
+            "autoload": {
+                "psr-4": {
+                    "Dinushchathurya\\Council\\": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "BSD-3-Clause"
+            ],
+            "authors": [
+                {
+                    "name": "dinushchathurya",
+                    "email": "dinushchathurya21@gmail.com"
+                }
+            ],
+            "description": "This includes all Srilankan Urban councils, Municipal councils and Pradeshiya Sabha",
+            "keywords": [
+                "Local Authorities in SriLanka",
+                "Municipal Councils Uraban Councils Pradeshiya Sabha in SriLanka",
+                "Municipal Councils in SriLanka",
+                "Pradeshiya Sabha in SriLanka",
+                "SriLankan Local Authorities",
+                "SriLankan Municipal Councils",
+                "Srilankan Pradeshiya Sabha",
+                "Srilankan Urban Councils",
+                "Urban Councils in SriLanka"
+            ],
+            "support": {
+                "issues": "https://github.com/dinushchathurya/srilankan-local-authorities/issues",
+                "source": "https://github.com/dinushchathurya/srilankan-local-authorities/tree/1.0.0"
+            },
+            "time": "2021-05-01T17:43:20+00:00"
         },
         {
             "name": "doctrine/inflector",
