@@ -11,7 +11,7 @@ class HomeController extends Controller
     public function index()
     {
         $provinces = Council::getProvinces();
-        return view('authority')->with([
+        return view('welcome')->with([
             'provinces' => $provinces
         ]);
     }
