@@ -42,7 +42,7 @@ public function exampleFunction(){
     </div>
 
     <div>
-    {{-- <h3><a href="https://github.com/dinushchathurya/srilankan-universities.git">Source code for working demo</a></h3> --}}
+    <h3><a href="https://github.com/dinushchathurya/srilankan-local-authorities-demo">Source code for working demo</a></h3>
     </div>
 
 </div>
